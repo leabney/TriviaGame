@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background-color: white;
+    margin-left: -50px;
+    margin-top: 50px;
+    width: 50%;
+    min-height: 450px;
+    padding-top:20px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.lead {
+    font-size: 18px;
+    margin-bottom:0px;
+}
+
+.btn {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+#timer {
+    border: 1px solid darkgray;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
